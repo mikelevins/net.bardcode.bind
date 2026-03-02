@@ -5,6 +5,7 @@ The BIND binding macro. A succinct combination of LET* and MULTIPLE-VALUE-BIND
 
 ## License
 
-Apache 2.0
+MIT
 
+Copyright 2021 by mikel evins
 
